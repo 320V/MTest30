@@ -1,0 +1,15 @@
+{
+    "name": "MEB - Ondalık Abaküs",
+    "short_name": "MEB - Ondalık Abaküs",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#807323",
+    "theme_color": "#000",
+    "description": "Ondalık Abaküs",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
